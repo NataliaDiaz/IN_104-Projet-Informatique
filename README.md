@@ -18,6 +18,3 @@ https://multithreaded.stitchfix.com/blog/2016/07/14/data-driven-fashion-design/
 
 # Contact
 natalia.diaz(at)ensta(dot)fr
-
-
-
