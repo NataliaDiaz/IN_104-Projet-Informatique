@@ -16,5 +16,14 @@ https://multithreaded.stitchfix.com/blog/2016/07/14/data-driven-fashion-design/
 - EA: https://en.wikipedia.org/wiki/Evolutionary_algorithm
 
 
+
+# Practical
+
+To load all Python3 libraries installed at ENSTA, including numpy and matplotlib, run in your command line:
+
+`
+useensta python3
+`
+
 # Contact
-natalia.diaz(at)ensta(dot)fr
+natalia.diaz(at)ensta-paristech(dot)fr
