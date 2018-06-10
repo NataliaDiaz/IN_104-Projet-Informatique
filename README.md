@@ -9,12 +9,13 @@ Genetic algorithms (GA) are a metaheuristic inspired by the process of natural s
 - An intro to genetic algorithms and a real industry application on data-driven fashion design
 https://multithreaded.stitchfix.com/blog/2016/07/14/data-driven-fashion-design/
 
-- The Era of Deep Neuroevolution (Uber AI Labs): https://eng.uber.com/deep-neuroevolution/
-
 - GA: https://en.wikipedia.org/wiki/Genetic_algorithm
 
 - EA: https://en.wikipedia.org/wiki/Evolutionary_algorithm
 
+- Visual Evolution Strategies: http://blog.otoro.net/2017/10/29/visual-evolution-strategies/  
+
+- The Era of Deep Neuroevolution (Uber AI Labs): https://eng.uber.com/deep-neuroevolution/
 
 
 # Practical
