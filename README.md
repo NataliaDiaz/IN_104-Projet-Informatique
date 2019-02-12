@@ -26,5 +26,7 @@ To load all Python3 libraries installed at ENSTA, including numpy and matplotlib
 useensta python3
 `
 
+Python Cheatsheets: https://github.com/NataliaDiaz/python-cheatsheet
+
 # Contact
 natalia.diaz(at)ensta-paristech(dot)fr
