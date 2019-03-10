@@ -1,6 +1,17 @@
 # IN_104-Projet-Informatique
 This is the site of the Computer Science Project Course on Genetic Algorithms
 
+# Project Management Pre-requirements
+TDD: Dive into Python3 tutorial:
+
+Chapter 9 Unit Testing: https://www.diveinto.org/python3/unit-testing.html
+
+Support chapter: Regular Expressions: https://www.diveinto.org/python3/regular-expressions.html
+
+(if time, also do) Chapter 10: Refactoring 
+
+
+
 # Genetic Algorithms
 
 Genetic algorithms (GA) are a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). GA are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection.
