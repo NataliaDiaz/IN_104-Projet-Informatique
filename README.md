@@ -40,4 +40,13 @@ useensta python3
 Python Cheatsheets: https://github.com/NataliaDiaz/python-cheatsheet
 
 # Contact
-natalia.diaz(at)ensta-paristech(dot)fr
+natalia.diaz(at)ensta-paris(dot)fr
+
+
+
+
+# Projects 2020: 
+
+See Lecture 0
+
+
