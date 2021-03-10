@@ -3,17 +3,26 @@ This is the site of the Computer Science Project Course on Genetic Algorithms
 
 
 IN104 is on Tuesday afternoons:
+
 14h45-15h45 - CM
+
 16h00-18h00 - TD info
 
 
 30 March Projects presentations (5 min each) and Intro to GIT and Choosing Project. Deadline to finalize TD on your github repo: 5 Apr 23.59
+
 6 Apr Object Oriented Programming (OOP) class and practical (Submit Project 0 in Gradescope) Deadline: 5 April 23.59 (Verify always in Gradescope exact date and time)
+
 13 Apr Intro to Test Driven Development (TDD) and Unit Tests. Deadline to finalize TD on your github repo: 26 Apr 23.59
+
 27 Apr Work on project week (in pairs)
+
 4 May Work on project week (in pairs)
+
 11 May Work on project week (in pairs)
+
 18 May Work on project week (in pairs)
+
 25 May Project Defense (in pairs)
 
 # Project Management Pre-requirements
