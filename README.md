@@ -1,5 +1,5 @@
 # IN_104-Projet-Informatique
-This is the site of the Computer Science Project Course on Genetic Algorithms
+This is the site of the Computer Science Project Course.
 
 
 IN104 is on Tuesday afternoons:
@@ -8,6 +8,8 @@ IN104 is on Tuesday afternoons:
 
 16h00-18h00 - TD info
 
+
+SCHEDULE:
 
 30 March Projects presentations (5 min each) and Intro to GIT and Choosing Project. Deadline to finalize TD on your github repo: 5 Apr 23.59
 
