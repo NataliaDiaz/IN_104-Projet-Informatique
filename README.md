@@ -8,8 +8,6 @@ IN104 is on Tuesday afternoons:
 
 16h00-18h00 - TD info
 
-
-
 # SCHEDULE:
 
 30 March Projects presentations (5 min each) and Intro to GIT and Choosing Project. Deadline to finalize TD on your github repo: 5 Apr 23.59
@@ -27,6 +25,33 @@ IN104 is on Tuesday afternoons:
 18 May Work on project week (in pairs)
 
 25 May Project Defense (in pairs)
+
+# Dates
+
+Voici les horaires programmés : vous devriez les voir dans votre espace dans SynapseS :  
+
+30/03/2021	mardi	14:45 - 15:45	01:00	Cours magistral
+
+30/03/2021	mardi	16:00 - 18:00	02:00	TD info
+
+06/04/2021	mardi	14:45 - 15:45	01:00	Cours magistral
+
+06/04/2021	mardi	16:00 - 18:00	02:00	TD info
+
+13/04/2021	mardi	14:45 - 15:45	01:00	Cours magistral
+
+13/04/2021	mardi	16:00 - 18:00	02:00	TD info
+
+27/04/2021	mardi	16:00 - 18:00	02:00	TD info
+
+04/05/2021	mardi	16:00 - 18:00	02:00	TD info
+
+11/05/2021	mardi	16:00 - 18:00	02:00	TD info
+
+18/05/2021	mardi	16:00 - 18:00	02:00	TD info
+
+25/05/2021	mardi	14:45 - 17:45	03:00	Soutenance
+
 
 # Project Management Pre-requirements
 TDD: Dive into Python3 tutorial:
