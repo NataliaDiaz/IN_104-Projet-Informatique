@@ -13,6 +13,9 @@ IN104 is on Tuesday afternoons:
 30 March Projects presentations (5 min each) and Intro to GIT and Choosing Project. Deadline to finalize TD on your github repo: 5 Apr 23.59
 
 6 Apr Object Oriented Programming (OOP) class and practical (Submit Project 0 in Gradescope) Deadline: 5 April 23.59 (Verify always in Gradescope exact date and time)
+Note: the file tutorial.zip from the original CS188 course [1] has been fixed and needs to be downloaded from here:
+https://www.dropbox.com/s/5dnpwupekpn6ugn/tutorial.zip?dl=0
+
 
 13 Apr Intro to Test Driven Development (TDD) and Unit Tests. Deadline to finalize TD on your github repo: 26 Apr 23.59
 
@@ -83,7 +86,7 @@ https://multithreaded.stitchfix.com/blog/2016/07/14/data-driven-fashion-design/
 
 # Practical
 
-To load all Python3 libraries installed at ENSTA, including numpy and matplotlib, run in your command line:
+To load all Python3 libraries installed at ENSTA computers, including numpy and matplotlib, run in your command line:
 
 `
 useensta python3
@@ -97,8 +100,13 @@ natalia.diaz(at)ensta-paris(dot)fr
 
 
 
-# Projects 2020: 
+# Projects: 
 
-See Lecture 0
+See end of Lecture 0
 
+
+
+# References:
+
+[1] https://inst.eecs.berkeley.edu/~cs188/sp21/project0/
 
